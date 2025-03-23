@@ -1,1 +1,2 @@
-# AI-Itinerary-Generator
+# AI-Itinerary-Generator.py
+In progress
