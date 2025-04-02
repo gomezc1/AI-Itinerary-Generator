@@ -1,5 +1,3 @@
-# AI-Itinerary-Generator
-
 Tested with all integrations.
  
 
